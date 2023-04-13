@@ -1,4 +1,4 @@
-### Hi there 👋
+![Yellow banner with the words Caoimhe Young to introduce this user.](Caoimhe%20Jyoti.png)
 
 <!--
 **caoimhejyoti/caoimhejyoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
