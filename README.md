@@ -3,7 +3,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/fAbbq1tF99d0uiizsr/giphy.gif" width ="60"><b></b>
+## <img src="https://media.giphy.com/media/fAbbq1tF99d0uiizsr/giphy.gif" width ="80"><b></b>
 
 I am a colourful amalgamation of coder, events industry professional and a lover of puzzels.
 
